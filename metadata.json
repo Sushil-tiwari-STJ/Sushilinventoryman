@@ -1,0 +1,6 @@
+{
+  "name": "Inventory Management",
+  "description": "Real-time inventory management system tailored for India with Indian Rupee (INR ₹) valuation, GST slabs, HSN codes, and PostgreSQL Cloud SQL storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
